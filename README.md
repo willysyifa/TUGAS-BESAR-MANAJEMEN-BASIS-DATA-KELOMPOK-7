@@ -74,3 +74,4 @@ Hasil pengujian digunakan untuk mengevaluasi:
 | Annisa Salsabila | 12.5% |
 | Willy Syifa Luthfia | 12.5% |
 | Silvia | 12.5% |
+
