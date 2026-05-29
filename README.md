@@ -67,6 +67,10 @@ staf_keuangan      └───────────────────�
 ```
 
 ---
+📁 **Link Github:** [Github Kelompok 7](https://github.com/)
+📄 **Link Laporan:** [Tugas Besar Kelompok 7 — Keamanan, Keandalan & Etika Data](https://drive.google.com/)
+
+---
 
 ## ⚙️ Instalasi & Menjalankan
 
