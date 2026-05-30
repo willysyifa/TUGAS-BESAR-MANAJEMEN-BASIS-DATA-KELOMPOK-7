@@ -14,7 +14,7 @@
 
 | No | NIM | Nama | Kontribusi | % |
 |---|---|---|---|:---:|
-| 1 | 123140010 | Margaretta Angela Manulang | Kajian literatur access control, penyusunan Bab II (2.1 Tinjauan Studi Terkait), analisis konsep RBAC | 12,5% |
+| 1 | 123140010 | Margaretta Angela Manullang | Kajian literatur access control, penyusunan Bab II (2.1 Tinjauan Studi Terkait), analisis konsep RBAC | 12,5% |
 | 2 | 123140011 | Ade Putri Tifani | Penyusunan Bab I (1.1 Latar Belakang), identifikasi ancaman keamanan RME | 12,5% |
 | 3 | 123140017 | Natasya Felisita Br Ginting | Kajian literatur SQL Injection, penyusunan Bab II (2.2 Tabel Perbandingan Studi Terdahulu) | 12,5% |
 | 4 | 123140044 | Jesika Filosovi Br P-A | Penyusunan Bab I (1.3 Tujuan & Kontribusi), skenario pengujian RBAC | 12,5% |
